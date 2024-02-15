@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\bin\Debug\net8.0\loop-s.exe
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\bin\Debug\net8.0\loop-s.deps.json
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\bin\Debug\net8.0\loop-s.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\bin\Debug\net8.0\loop-s.dll
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\bin\Debug\net8.0\loop-s.pdb
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\loop-s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\loop-s.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\loop-s.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\loop-s.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\loop-s.sourcelink.json
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\loop-s.dll
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\refint\loop-s.dll
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\loop-s.pdb
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\loop-s.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Loop\loop-s\loop-s\obj\Debug\net8.0\ref\loop-s.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Loop\\loop-s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE13F31C-3DA2-4A1A-873D-E74CC178AC62}|loop-s\\loop-s.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\loop\\loop-s\\loop-s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE13F31C-3DA2-4A1A-873D-E74CC178AC62}|loop-s\\loop-s.csproj|solutionrelative:loop-s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Loop\\loop-s\\loop-s\\Program.cs",
+              "RelativeDocumentMoniker": "loop-s\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Loop\\loop-s\\loop-s\\Program.cs",
+              "RelativeToolTip": "loop-s\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T09:04:46.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
